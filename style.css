@@ -3,9 +3,7 @@
     src: url(./assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
 }
 
-* {
-    overflow-x: hidden;
-}
+
 
 body {
     background-color: hsl(0, 0%, 0%);
