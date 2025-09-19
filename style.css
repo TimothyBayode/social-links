@@ -84,12 +84,12 @@ button:hover {
 @media (max-width: 350px) {
     .container {
         width: 300px;
-        margin: 0 auto;
+        margin-inline: 30px;
         padding: 30px;
         box-sizing: border-box;
     }
 
     body {
-        padding-inline: 30px;
+        text-align: center;
     }
 }
