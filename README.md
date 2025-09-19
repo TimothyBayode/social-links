@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/social-links-webpage-FZT_oUOoGp)
-- Live Site URL: (https://social-links-blush-nu.vercel.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-webpage-FZT_oUOoGp)
+- Live Site URL: [Social Links Webpage](https://social-links-blush-nu.vercel.app/)
 
 ### Built with
 
