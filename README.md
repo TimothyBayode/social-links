@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/social-links-webpage-FZT_oUOoGp)
 - Live Site URL: (https://social-links-blush-nu.vercel.app/)
 
 ### Built with
@@ -33,5 +33,5 @@ Users should be able to:
 
 ## Author
 
-- LinkedIn - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- LinkedIn - [Timothy Bayode](https://www.linkedin.com/in/timothy-bayode)
+- Frontend Mentor - [@TimothyBayode](https://www.frontendmentor.io/profile/TimothyBayode)
