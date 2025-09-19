@@ -88,4 +88,8 @@ button:hover {
         padding: 30px;
         box-sizing: border-box;
     }
+
+    body {
+        padding-inline: 30px;
+    }
 }
